@@ -1,7 +1,6 @@
 {
   "name": "blade",
-  "author": "Pedro Borges <oi@pedroborg.es>",
-  "contributor": "Oliver Belmont <obelmont@oliverbelmont.com",
+  "author": "Pedro Borges <oi@pedroborg.es> | Oliver Belmont <obelmont@oliverbelmont.com",
   "version": "1.0.0-beta",
   "description": "Kirby Blade Template",
   "type": "kirby-plugin",
